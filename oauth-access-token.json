@@ -1,0 +1,8 @@
+{
+  "vType": "object",
+  "required": 1,
+  "accessToken": {
+	"vType": "text",
+	"required": 1
+  }
+}
